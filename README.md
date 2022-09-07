@@ -5,3 +5,4 @@
 3. **Bideo.js** - Amazing library for fullscreen background video.
 4. **Cleave.js** - Input formator when typing.
 5. **Choreographer.js** - Animation library for complex stuffs.  
+6. **Granim.js** - Gradient animation library.
