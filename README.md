@@ -8,3 +8,4 @@
 6. **Granim.js** - Gradient animation library.
 7. **Fullpage.js** - Fullscreen scrolling website.
 8. **Multiple.js** - Library for sharing background across multiple elements.
+9. [**Interact.js**](https://interactjs.io/) - Drag & drop library
