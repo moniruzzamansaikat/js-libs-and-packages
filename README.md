@@ -6,3 +6,5 @@
 4. **Cleave.js** - Input formator when typing.
 5. **Choreographer.js** - Animation library for complex stuffs.  
 6. **Granim.js** - Gradient animation library.
+7. **Fullpage.js** - Fullscreen scrolling website.
+8. **Multiple.js** - Library for sharing background across multiple elements.
